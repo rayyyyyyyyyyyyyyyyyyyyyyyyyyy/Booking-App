@@ -1,4 +1,4 @@
-# smart_home_app
+# booking_app
 
 A new Flutter project.
 
